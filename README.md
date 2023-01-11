@@ -1,13 +1,3 @@
-# Tools-for-Analytics-Final-Project
-
-Group Name: Group 28 
-
-Members: 
-
-Devangi Shailendra Gaikwad: dsg2160
-
-Luqman Yusuf Bharoto: lb3422
-
 ## Project Description: 
 
 The purpose of the project is to develop an analysis for interpreting data from yellow taxis and uber rides from January 2009 and June 2015. The motivation for this project
